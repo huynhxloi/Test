@@ -10,5 +10,6 @@ public class JustATest
     public static void main(String[] args)
     {
         System.out.println("Just a test!");
+        System.out.println("Test completed.");
     }
 }
